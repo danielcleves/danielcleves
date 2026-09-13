@@ -68,11 +68,7 @@
 
 <div align="center">
 
-[![Repositorios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=public_repos&style=for-the-badge&logo=github&label=Repositorios&color=6c63ff)](https://github.com/danielcleves?tab=repositories)
-
-[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=followers&style=for-the-badge&label=Followers&color=6c63ff)](https://github.com/danielcleves)
-
-[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=following&style=for-the-badge&label=Following&color=6c63ff)](https://github.com/danielcleves?tab=following)
+[![Repositorios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=public_repos&style=for-the-badge&logo=github&label=Repositorios&color=6c63ff)](https://github.com/danielcleves?tab=repositories) &nbsp; [![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=followers&style=for-the-badge&label=Followers&color=6c63ff)](https://github.com/danielcleves)
 
 </div>
 
@@ -81,7 +77,5 @@
 <div align="center">
 
 **⭐ ¿Te gusta algún proyecto?** No dudes en darle una estrella o abrir una issue. Siempre abierto a colaborar y aprender.
-
-[![visitors](https://api.visitorbadge.io/api/visitors?path=danielcleves&label=👀%20Visits&countColor=%236c63ff)](https://github.com/danielcleves)
 
 </div>
