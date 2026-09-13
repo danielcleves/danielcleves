@@ -68,11 +68,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielcleves&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/danielcleves)
+[![Repositorios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=public_repos&style=for-the-badge&logo=github&label=Repositorios&color=6c63ff)](https://github.com/danielcleves?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcleves&layout=compact&theme=radical&hide_border=true)](https://github.com/danielcleves)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=followers&style=for-the-badge&label=Followers&color=6c63ff)](https://github.com/danielcleves)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielcleves&theme=radical&no-bg=true&no-frame=true&margin-w=8)](https://github.com/danielcleves)
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanielcleves&query=following&style=for-the-badge&label=Following&color=6c63ff)](https://github.com/danielcleves?tab=following)
 
 </div>
 
