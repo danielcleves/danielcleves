@@ -14,10 +14,9 @@
 
 ## 🚀 Sobre mí
 
-> Apasionado por **desarrollar aplicaciones web** que combinan utilidad real con una experiencia de usuario cuidada. Me interesa especialmente el desarrollo **full-stack** y el **Machine Learning / NLP** aplicado a problemas concretos.
+> Apasionado por **desarrollar aplicaciones web** que combinan utilidad real con una experiencia de usuario cuidada. Me enfoco especialmente en el desarrollo **full-stack**, construyendo productos completos desde el backend hasta la interfaz.
 
 - 🎓 Estudiante de Ingeniería de Sistemas (ECCI) — 8.º semestre de 9
-- 🧠 Experiencia en **NLP** y clasificación de sentimiento en español
 - 🛠️ Construyo proyectos end-to-end: backend, frontend y despliegue
 - 📚 Siempre aprendiendo nuevas tecnologías
 
