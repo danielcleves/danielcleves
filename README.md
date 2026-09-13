@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/danielcleves/prestamos-equipos-ecci-backend"><b>🔧 prestamos-equipos-ecci-backend</b></a> · Laravel</td>
-    <td>Backend para la gestión de préstamo de equipos institucionales (ECCI).</td>
+    <td>Backend para la gestión de préstamo de equipos institucionales (ECCI). <b>Rol: líder técnico</b> — arquitectura, coordinación del equipo y revisión de código.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/danielcleves/cv-color-classifier"><b>🧪 cv-color-classifier</b></a> · JavaScript</td>
