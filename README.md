@@ -4,9 +4,7 @@
 
 **Full-stack Developer** · Construyendo soluciones web con pasión por la IA y el diseño funcional
 
-[![web](https://img.shields.io/badge/🌐-Portafolio-6c63ff?style=for-the-badge)](https://github.com/danielcleves)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cleves-458799271/)
-[![email](https://img.shields.io/badge/-daniel.cleves.rueda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.cleves.rueda@gmail.com)
 
 ---
 
